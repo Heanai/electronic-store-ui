@@ -14,7 +14,7 @@ const Footer = () => {
                         Your one-stop destination for all the latest electronics and premium gadgets at the best prices.
                     </p>
                     <div className="flex space-x-4 text-gray-400 text-lg">
-                        <a href="#" className="hover:text-blue-500 transition"><FaFacebook /></a>
+                        <a href="https://www.facebook.com/share/1Lv7vpg1cQ/?mibextid=wwXIfr" className="hover:text-blue-500 transition"><FaFacebook /></a>
                         <a href="#" className="hover:text-blue-400 transition"><FaTwitter /></a>
                         <a href="#" className="hover:text-pink-500 transition"><FaInstagram /></a>
                         <a href="#" className="hover:text-blue-600 transition"><FaLinkedin /></a>
